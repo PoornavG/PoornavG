@@ -4,7 +4,7 @@ A student of Information Science with a passion for web development, pentesting,
 Skills i learnt somewhat 😂
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,unity,c,cpp,html,css,js,vim,git,github,kali,py,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=arduino,unity,c,cpp,html,css,js,git,github,kali,py,raspberrypi" />
   </a>
 </p>
 
